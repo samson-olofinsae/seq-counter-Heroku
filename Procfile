@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit seq-counter.py
+web: sh setup.sh && streamlit run seq-counter.py
