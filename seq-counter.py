@@ -11,7 +11,7 @@ from PIL import Image
 # Page Title
 ######################
 
-image = Image.open('dna-logo.jpg')
+image = Image.open('Nucleo-image.jpg')
 
 st.image(image, use_column_width=True)
 
